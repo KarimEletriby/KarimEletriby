@@ -7,6 +7,8 @@
 <br>
 
 
+<img src="https://komarev.com/ghpvc/?username=Karim246&style=for-the-badge&color=00D4FF&label=Profile+Views"/>
+
 <img src="https://img.shields.io/github/stars/Karim246?affiliations=OWNER&style=for-the-badge&color=9B59FF&labelColor=0a0a0a&label=Total+Stars"/>
 
 </div>
