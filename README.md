@@ -6,11 +6,6 @@
 
 <br>
 
-<a href="https://github.com/Karim246?tab=followers">
-<img src="https://img.shields.io/github/followers/Karim246?style=for-the-badge&logo=github&color=00D4FF&labelColor=0a0a0a&label=Followers"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Karim246&style=for-the-badge&color=00D4FF&label=Profile+Views"/>
 
 <img src="https://img.shields.io/github/stars/Karim246?affiliations=OWNER&style=for-the-badge&color=9B59FF&labelColor=0a0a0a&label=Total+Stars"/>
 
@@ -194,7 +189,7 @@ class KarimEletriby:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Karim246">
+<a href="https://github.com/KarimEletriby">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
